@@ -58,7 +58,7 @@
   rebase = false
 
 [init]
-  defaultBranch = master
+	defaultBranch = main
 [user]
 	email = quentinbragard@gmail.com
 	name = Quentin Bragard
